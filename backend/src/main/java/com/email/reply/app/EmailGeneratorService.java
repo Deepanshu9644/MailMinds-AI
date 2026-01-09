@@ -81,13 +81,6 @@ public class EmailGeneratorService {
         """.formatted(toneInstruction, emailRequest.getEmailContent());
     }
 
-//    private String buildPrompt(EmailRequest emailRequest) {
-//        StringBuilder prompt=new StringBuilder();
-//        if(emailRequest.getTone()!=null && !emailRequest.getTone().isEmpty()){
-//            prompt.append("Use a ").append(emailRequest.getTone()).append("tone");
-//        }
-//        prompt.append("\n Original email: \n").append(emailRequest.getEmailContent());
-//        return prompt.toString();
-//    }
+
 
 }
