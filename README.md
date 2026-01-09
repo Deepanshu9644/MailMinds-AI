@@ -12,7 +12,7 @@ MailMinds AI is a Chrome Extension integrated with a Java Spring Boot backend th
 - 🤖 AI-generated content using Gemini API  
 - ☕ Spring Boot REST API backend  
 - ⚛️ Lightweight frontend injected into Gmail DOM  
-- 🔐 Firebase security integration (optional)
+
 
 ---
 
@@ -20,8 +20,7 @@ MailMinds AI is a Chrome Extension integrated with a Java Spring Boot backend th
 
 - **Frontend:** Vanilla JS (Content Script for Chrome Extension)  
 - **Backend:** Java Spring Boot  
-- **AI Integration:** Google Gemini API  
-- **Security:** Firebase Authentication (planned or integrated)  
+- **AI Integration:** Google Gemini API   
 - **Extension Runtime:** Chrome Extension APIs
 
 ---
